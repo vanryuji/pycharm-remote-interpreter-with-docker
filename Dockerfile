@@ -1,4 +1,4 @@
-FROM python:3.6.10-stretch
+FROM python:3.6.13-stretch
 
 WORKDIR /usr/src/app
 
